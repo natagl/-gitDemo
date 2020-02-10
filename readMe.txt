@@ -1,11 +1,11 @@
-# FWD-2020-Ironhack-Project1
+d# FWD-2020-Ironhack-Project1
 Garfield Eats      
 
 Introduction
  2d  Game written entirely in JavaScript and rendered on HTML5  <canvas>. 
 		
 The main character of the Garfield who loves to eat.
-                                                   
+dfdfd
 To control Garfield Use the Left, Right, Up and Down arrow. 
 				 
  The Player has to feed him with Donuts in order to get points.   
